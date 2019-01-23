@@ -1,6 +1,6 @@
 {
     "name": "@vamship/curl-container",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Container builder project for a container that includes curl",
     "keywords": [
         "kubernetes",
