@@ -12,7 +12,7 @@ LABEL org.label-schema.name=$APP_NAME \
       org.label-schema.vcs-url="https://github.com/vamship/curl-container"
 
 RUN apk update \
-    && apk add curl
+    && apk add curl bash
 
 WORKDIR /root
 
