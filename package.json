@@ -1,0 +1,29 @@
+{
+    "name": "@vamship/curl-container",
+    "version": "0.0.0",
+    "description": "Container builder project for a container that includes curl",
+    "keywords": [
+        "kubernetes",
+        "curl",
+        "kubectl"
+    ],
+    "author": "Vamshi K Ponnapalli <vamshi.ponnapalli@gmail.com>",
+    "license": "ISC",
+    "devDependencies": {
+        "@vamship/grunt-utils": "^1.0.3",
+        "grunt": "^1.0.1",
+        "grunt-bump": "^0.8.0",
+        "grunt-prettier": "^0.5.1",
+        "grunt-shell": "^2.1.0",
+        "load-grunt-tasks": "^4.0.0"
+    },
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vamship/curl-container.git"
+    },
+    "bugs": {
+        "url": "https://github.com/vamship/curl-container/issues"
+    },
+    "homepage": "https://github.com/vamship/curl-container#readme"
+}
