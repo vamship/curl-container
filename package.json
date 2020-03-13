@@ -1,6 +1,6 @@
 {
     "name": "@vamship/curl-container",
-    "version": "1.1.0-0",
+    "version": "1.1.0",
     "description": "Container builder project for a container that includes curl",
     "scripts": {
         "package": "gulp --series clean package",
