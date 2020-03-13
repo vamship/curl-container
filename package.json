@@ -2,6 +2,10 @@
     "name": "@vamship/curl-container",
     "version": "1.1.0-0",
     "description": "Container builder project for a container that includes curl",
+    "scripts": {
+        "package": "gulp --series clean lint format build test-unit package",
+        "package:arm64": "gulp --series clean lint format build test-unit package-arm64"
+    },
     "keywords": [
         "kubernetes",
         "curl",
