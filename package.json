@@ -29,7 +29,7 @@
     },
     "homepage": "https://github.com/vamship/curl-container#readme",
     "buildMetadata": {
-        "projectType": "cli",
+        "projectType": "container",
         "language": "js",
         "docker": {
             "default": {
